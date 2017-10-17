@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-core-VueJS-Starter", "aspnet-core-VueJS-Starter\aspnet-core-VueJS-Starter.csproj", "{0CD60098-E7B4-44CE-80C9-CE700820C261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD60098-E7B4-44CE-80C9-CE700820C261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD60098-E7B4-44CE-80C9-CE700820C261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD60098-E7B4-44CE-80C9-CE700820C261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD60098-E7B4-44CE-80C9-CE700820C261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41126F47-99D0-4819-BDF8-402F4BC7E736}
+	EndGlobalSection
+EndGlobal
